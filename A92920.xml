@@ -1,0 +1,572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sentence of the Councell of VVarre, pronounced against the Lord Mountnorris, in Ireland the twelfth of December, 1635. VVith the Lord Mountnorris petition to the Parliament concerning his iniuries and wrongs sustayned by the Lord Deputy deceased.</title>
+            <title>Sentence of warre pronounced against Sir Francis Annesley, Knight and Baron Mountnorris, in the realme of Ireland.</title>
+            <author>Ireland. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92920</idno>
+            <idno type="STC">Wing S2555</idno>
+            <idno type="STC">Thomason E208_6</idno>
+            <idno type="STC">ESTC R17542</idno>
+            <idno type="EEBO-CITATION">99860215</idno>
+            <idno type="PROQUEST">99860215</idno>
+            <idno type="VID">112332</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112332)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 37:E208[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sentence of the Councell of VVarre, pronounced against the Lord Mountnorris, in Ireland the twelfth of December, 1635. VVith the Lord Mountnorris petition to the Parliament concerning his iniuries and wrongs sustayned by the Lord Deputy deceased.</title>
+                  <title>Sentence of warre pronounced against Sir Francis Annesley, Knight and Baron Mountnorris, in the realme of Ireland.</title>
+                  <author>Ireland. Army. Council.</author>
+                  <author>Valentia, Francis Annesley, Viscount, 1585-1660. Humble petition of Sir Francis Annesley, Knight and Baron Mountnorris, in the realme of Ireland.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Valentia, Francis Annesley, --  Viscount, 1585-1660 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112332:1"/>
+            <pb facs="tcp:112332:1" rendition="simple:additions"/>
+            <p>THE SENTENCE OF THE COVNCELL OF WARRE, PRONOVNCED AGAINST THE LORD
+MOVNTNORRIS, IN <hi>JRELAND</hi> THE Twelfth of <hi>December,</hi> 1635. VVith
+the Lord <hi>Mountnorris</hi> Pe<g ref="char:EOLhyphen"/>tition to the Parliament concerning his
+Iniuries and wrongs ſuſtayned by the Lord DEPVTY deceaſed.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:112332:2"/>
+            <pb n="3" facs="tcp:112332:2"/>
+            <head>BY THE LORD DEPVTIE <hi>WENTWORTH</hi> and Generall of the
+Armie and Councell of <hi>VVarre.</hi>
+            </head>
+            <p>Whereas the Kings moſt excellent majeſtie by his highnes
+letters of the one and thirtieth of <hi>July</hi> laſt di<g ref="char:EOLhyphen"/>rected to vs the
+Lord deputie, hath beene graciouſly pleaſed to ſigni<g ref="char:EOLhyphen"/>fie that as he
+ſhall ever expect that all due reverence ſhall be given by his ſubjects
+to the perſon whome he appointeth to be his deputie, and generall of his
+Ar<g ref="char:EOLhyphen"/>mie within this his Kingdome of <hi>Jreland;</hi> So on the contrary, hee
+ſhall hold them blame-worthie, eſpeci<g ref="char:EOLhyphen"/>ally being perſons who have
+received their dignities from him, or hold their places of honor and truſt
+un<g ref="char:EOLhyphen"/>der his governement. And yet ſhall forget there due<g ref="char:EOLhyphen"/>ties that way in their
+words, or actions, to the ill ex<g ref="char:EOLhyphen"/>ample of others: And taking notice of the
+carriage of the Lord <hi>Mountnorris</hi> his Majeſties Vice-treaſurer, and
+Treaſurer at Warrs here (whoe holdes a Cap<g ref="char:EOLhyphen"/>taines place in his Majeſties
+Armie) by uttering <pb n="4" facs="tcp:112332:3"/> ſome ſpeeches, inciting a revenge
+vpon vs the Lord deputie and generall, from, a Liuetenant of this Armie, for
+performing the duties of our place, with modeſty and good reaſon, in the
+time of excerciſing our troope, which his Majeſtie in his ſaid letters
+de<g ref="char:EOLhyphen"/>clares to be an offence, much unbeſeeming the gra<g ref="char:EOLhyphen"/>uitie of a priuie
+Counceller to vs the Lord deputie, and the dutie of a Captaine to his generall,
+and not to be ſuffered in any well governed Armie where good diſcipline
+muſt be the rule and ſquare of euery mans actions.</p>
+            <p>And therefore being very ſenſible of the honor of Vs, his
+deputie, and generall of his Armie; which may ſuffer herein, and be of ill
+conſequence in the fu<g ref="char:EOLhyphen"/>ture, he hath by his ſaid letters willed and
+comman<g ref="char:EOLhyphen"/>ded Vs the Lord deputie and generall upon receipt of thoſe his letters
+to call a councell of warre, and after a due examination, and proofe of thoſe
+ſpeeches by the Lord <hi>Mountnorris,</hi> his Majeſties expreſſe will
+and pleaſure is, that hee ſhould under goe and be lia<g ref="char:EOLhyphen"/>ble to ſuch
+cenſure as the ſaid councell ſhould im<g ref="char:EOLhyphen"/>poſe upon him, for the full
+reparation of Vs his de<g ref="char:EOLhyphen"/>putie and generall in that poynt, and that there be no
+fayling in putting the ſame in due and ſpeedy exe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>In obedience to which his Majeſties command, Wee the Lord
+deputie called a councell of warre, whoe being this day aſſembled, Wee the
+Lord de<g ref="char:EOLhyphen"/>putie in the preſence of the ſaid Lord <hi>Mountnorris</hi> did
+charge him with this offence, that within 3. or 4. daies or thereabouts, after
+the end of the Parliament, it be<g ref="char:EOLhyphen"/>ing mentioned at the Lord <hi>Chancellors</hi>
+Table, that af<g ref="char:EOLhyphen"/>ter Wee the Lord deputie had diſſolved the Parlia<g ref="char:EOLhyphen"/>ment, 
+<pb n="5" facs="tcp:112332:3"/> being ſitting downe in the preſence Chamber, one of Our
+ſervants in mooving a ſtoole happend to hurt our foot, then indiſpoſed
+through an acceſſion of the gout, that one then preſent at the Lord
+<hi>Chancel<g ref="char:EOLhyphen"/>lors</hi> table, then ſaid to the Lord <hi>Mountnorris</hi> being
+there likewiſe, that it was <hi>Anſley</hi> his Lordſhips kinſman, and
+one of our Lord deputie and generalls gentlemen-vſhers that had done it,
+whereupon the Lord <hi>Mountnorris</hi> then publikely, and in a ſcornefull
+contemptuous manner, anſwered <hi>perhapps it was done in revenge</hi> of
+that publique affront which my Lord deputie had done him formerly, <hi>But he
+hath a brother that would not take ſuch a revenge,</hi> which Charge being
+ſo laid, the Lord <hi>Mountnorris</hi> was required by this councell of
+warre, to make anſwer thereunto, who going about to anſwer it, and yet
+neither confeſſing nor denying them; This councell (after ſome time
+ſpent therein) required him to anſwer the ſaid charge, either negatively
+or affermatively, yet would not confeſſe or deny them. Wherevpon the
+witneſſes vouched for profe thereof, were called, namely per<g ref="char:EOLhyphen"/>ſons who
+though they were not the orginall relators of his Lordſhips, ſaid
+diſcourſe to Vs the Lord depu<g ref="char:EOLhyphen"/>tie, yet being preſent when the words were
+ſo ſpoken, were conceive to be able to give teſtimony therein: And
+therfore were called to be interrogated with all, thereupon, who being examined
+before this councell upon oath, miniſtered unto them by the Clarke of the
+councell before Vs by commandement of Vs the Lord deputie and their
+depoſitions then reduced to writing, and ſubſcribed by them in our
+preſence and in the preſence alſo of the ſaid L. <hi>Mountnorris,</hi>
+who heard them affirme the ſame. It thereby appeareth that the 
+<pb n="6" facs="tcp:112332:4"/> ſaid Lord <hi>Mountnorris</hi> vttered and ſpoke the
+ſaid words, in manner and forme, and at the time and place aforeſaid; The
+charge laid againſt him ſtanding then fully proved, the ſaid Lord
+<hi>Mountnorris</hi> at laſt ſubmitted himſelfe to the Iudgement of this
+councell, proteſting that what interpretation ſoever his words might have
+put vpon them, he intended noe preju<g ref="char:EOLhyphen"/>dice or hurt to the perſon of Vs the
+deputie and generall, affirming that by theſe words, <hi>but he hath a
+brother that would not take ſuch a revenge</hi> his Lordſhip meant onely
+that he the ſaid brother would dye, be<g ref="char:EOLhyphen"/>fore he would give Vs the deputie and
+generall occa<g ref="char:EOLhyphen"/>ſion to give him ſuch a rebuke.</p>
+            <p>Wee fell in the next place to conſider as of the na<g ref="char:EOLhyphen"/>ture of the
+offence, ſo of the puniſhement due there<g ref="char:EOLhyphen"/>vnto. And firſt for the nature
+of the offence, Wee conceive it to containe firſt a calumnie againſt the
+perſon of Vs the deputie and generall of the Armie, inſinuating by theſe
+words the publike affront or the diſgrace which my Lord deputie had done him
+for<g ref="char:EOLhyphen"/>merly, that indeede there had beene ſuch an affront, or diſgrace put
+vpon him, by Vs the Lord deputie; whereas in truth it was nothing ſo, but
+that which was pretended by the Lord <hi>Mountnorris</hi> to have been the
+ſaid diſgrace or affront to his kinſman was this, that his ſaid
+kinſman being one of the horſe-troope commanded by Vs the L. deputie in the
+time of ex<g ref="char:EOLhyphen"/>erciſing the ſaid troope, was out of order on horſe backe to
+the diſturbance of the reſt then in exerciſing, for which the L. deputie
+in a mild manner reproving him, as ſoone as Wee returned a ſide from him,
+Wee obſerved him to laugh and geere Vs for Our juſt re<g ref="char:EOLhyphen"/>proofe of him, which
+Wee diſliking returned to him, <pb n="7" facs="tcp:112332:4"/> and laying a ſmall Caine
+(which Wee then carried) on his ſhoulders (yet without any blow or ſtroake
+then given him therewith) told him, that if hee did ſerve Vs ſo any more,
+Wee would laie him over the pate, the truth of which facte appeared vnto Vs by
+the relation of his Majeſties ſaid deputie and our generall, avowed and
+confirmed by two of vs the Captaines, namely the Lord <hi>Kirkudbright,</hi>
+and Sir <hi>Frederick Hamilton</hi> knight who then ſaw the manner of it, and
+now ſate as members of this councell, which ſaid act was by this whole
+councell adjudged to have beene a farr milder proceeding with the ſaid
+<hi>Anſley,</hi> then ſuch an inſolence and diſobedience to any
+Comman<g ref="char:EOLhyphen"/>der, much more to his gennerall merited.</p>
+            <p>And therefore it was a ſpeech ſavouring doubtles of malice, to
+in ſinuate that as an affront or diſgrace which was indeed a iuſtly
+merrited, but a mild and modeſt reprehention and admonition.</p>
+            <p>Secondly Wee conceive the offence to containe an incitement to a
+revenge in theſe words <hi>but hee has a brother that would not take ſuch a
+Reuenge,</hi> which incite<g ref="char:EOLhyphen"/>ment might have given encouragement to the bro<g ref="char:EOLhyphen"/>ther
+being then and now in this kingdome, and Liue<g ref="char:EOLhyphen"/>tenant of the ſaid L.
+<hi>Mountnorris</hi> his foote companie to the ſaid <hi>Anſley</hi>
+himſelfe being continually ſo neere the perſon of Vs the deputie and
+generall, or to ſome other to have taken vp reſolutions of dangerous
+con<g ref="char:EOLhyphen"/>ſequence, and the manner of ſpeaking the words doe ſo farr aggravate
+them, as there is no place left for any indulgent conſtruction to bee made of
+them, nor in<g ref="char:EOLhyphen"/>deede any conſtruction, but ſuch as renders the ſpea<g ref="char:EOLhyphen"/>ker a
+delinquent in a high and a tranſendent manner againſt the perſon of his
+generall, and his Majeſties <pb n="8" facs="tcp:112332:5"/> authoritie whence we derive
+Our power; This coun<g ref="char:EOLhyphen"/>cell alſo tooke it into conſideration, that if the
+like words had beene ſpoken of the ſacred perſon of our dread Soveraigne
+Lord the King, they had a mounted to little leſſe then high treaſon,
+which by ſome rule of relation apply themſelves even to his Majeſtie,
+being directed to the perſon of his deputie and the revenge thus inſolently
+voted to have beene taken vp<g ref="char:EOLhyphen"/>on him: being done, when Wee the deputie, and
+generall had that great and high honor which We alwayes eſteeme our Selfe in
+our ſelfe farre vnworthy of, as to be apparralled and robed with his
+Majeſties owne robe of majeſtie, and Soveraingnity: We conſi<g ref="char:EOLhyphen"/>dered
+likewiſe the time when theſe words were ſpo<g ref="char:EOLhyphen"/>ken when part of the Armie
+was in motion, and when there were divers companies of foote and troops of
+horſe in the towne, &amp; daily in exerciſing, and training whereat for the
+moſt part, We the deputie were pre<g ref="char:EOLhyphen"/>ſent and the towne full of people from
+all parts of the kingdome as then vnreturned back to their owne dwellings, from
+their ſitting in Parliament.</p>
+            <p>In the next place for the puniſhment due to his of<g ref="char:EOLhyphen"/>fence, We
+judge it to be an apparent breach and con<g ref="char:EOLhyphen"/>tempt of the 41. Article of the
+printed lawes and or<g ref="char:EOLhyphen"/>ders of warr eſtabliſhed for the good conduct of the
+ſervice of <hi>Ireland,</hi> dated the 13. of <hi>March</hi> 1633. and
+publiſhed in print by Vs the Lord deputie ſoone af<g ref="char:EOLhyphen"/>ter our acceſſe to
+this governement in theſe words of the ſaid article, <hi>No man ſhall
+give any diſgracefull words or commit any act to the diſgrace of any
+perſon in his Ar<g ref="char:EOLhyphen"/>my, or garriſon, or any part thereof vpon paine of
+impri<g ref="char:EOLhyphen"/>ſonment, publique diſarming and baniſhement from the Armie, as men
+for ever diſabled to carrie Armes.</hi> And <pb n="9" facs="tcp:112332:5"/> which is more
+in like breach and contempt of the 13. Article of the ſaid printed lawes and
+orders of Warre, the words of which Article are theſe, <hi>No man ſhall
+of<g ref="char:EOLhyphen"/>fer any violence or contemptuouſly diſobey his Comman<g ref="char:EOLhyphen"/>der, or doe any
+Act, or ſpeake any words which are like to breede any mutiny in the Army or
+Gariſon, or impeach the obeying of the generall or principall officers
+directions up<g ref="char:EOLhyphen"/>on paine of death;</hi> which Articles are no other then very
+ſame Articles, this Army had allwaies been the governed by in the time of the
+late Lord <hi>Faulkland,</hi> Lord <hi>Willm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tt,</hi> and other the generalls before them. And therefore this
+Councell of Warre in conformity to his Majeſties gra<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious pleaſure as aforeſaid, and aſwell to vindicate
+the honour of his Majeſties deputy, and generall of his Army, from the wrong
+and con<g ref="char:EOLhyphen"/>tempt, under which we now ſuffer, to the ſcandall of this
+Govenement, and to ill example of others: As alſo to deliver one to all,
+which beare office, or are liſted as members of the Army under the rule and
+govenment of us his generall; An example of Juſtice for them to take warning
+by, how they preſume to offend againſt the Authority intruſted us by his
+Majeſtie doe hereby Adjudge, Order, and Decree, that the ſaid Lord
+<hi>Mountnorris</hi> ſtands juſtly and de<g ref="char:EOLhyphen"/>ſervedly lyable to undergoe the
+cenſures, paires and puniſhments by the ſaid 41. Article and 15. Articles
+proved againſt the breakers of all good diſcipline, and the
+tranſgreſſors againſt thoſe orders which are by the ſaid 41.
+Articles impriſonment, publique diſarming and baniſhment from the Army,
+as a man for <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver diſable to carry
+Armes: And by the ſaid 13. Arti<g ref="char:EOLhyphen"/>cle death, And therefore according to the
+ſaid Ar<g ref="char:EOLhyphen"/>ticles, <pb n="10" facs="tcp:112332:6"/> this Councell doe unamimouſly with one
+joynt conſent, not one of us being of other opinion) adjudged the ſaid Lord
+<hi>Mountnorris</hi> for his ſaid high and great offences to bee impriſoned
+to ſtand from henceforth deprived of all the places, with the enter<g ref="char:EOLhyphen"/>tainments
+due thereunto, which he holds now in the Army, to be diſarmed, to be
+baniſhed the Army, and diſ-inabled for ever bearing office therein
+hereafter: And laſtly, to be ſhot to death, or to looſe his head, at the
+pleaſure of the Generall: Given at his Majeſties Caſtle of
+<hi>Dublin</hi> the 12. day of <hi>December,</hi> 1635.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>alentia.</hi>
+                     </item>
+                     <item>
+                        <hi> Tho. Cromwell</hi>
+                     </item>
+                     <item>
+                        <hi> R. Ranelagh.</hi>
+                     </item>
+                     <item>
+                        <hi> R. Dillon.</hi>
+                     </item>
+                     <item>
+                        <hi> Law. Eſmond.</hi>
+                     </item>
+                     <item>
+                        <hi> Kirkudbright.</hi>
+                     </item>
+                     <item>
+                        <hi> Iohn Barlaſſe.</hi>
+                     </item>
+                     <item>
+                        <hi> Charles Coot.</hi>
+                     </item>
+                     <item>
+                        <hi> Tho. Wenman.</hi>
+                     </item>
+                     <item>
+                        <hi> Arthur Terringham.</hi>
+                     </item>
+                     <item>
+                        <hi> Arthur Blundell.</hi>
+                     </item>
+                     <item>
+                        <hi> Faith: Forteſcue.</hi>
+                     </item>
+                     <item>
+                        <hi> Ro. Farrar.</hi>
+                     </item>
+                     <item>
+                        <hi> Io. Borlaſe.</hi>
+                     </item>
+                     <item>
+                        <hi> Tho. Roper.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:112332:6"/>
+            <head>TO THE HONORABLE AS<g ref="char:EOLhyphen"/>ſembly the Knights, Citizens, and
+Burgeſſes of the Commons houſe of <hi>Parliament.</hi>
+            </head>
+            <head type="sub">The humble Petition of Sir <hi>Francis
+Annſley,</hi> Knight and Baron. <hi>Mountnorris</hi> in the King<g ref="char:EOLhyphen"/>dome of the
+Realme of <hi>Ireland.</hi>
+            </head>
+            <opener>Humbly ſhewing,</opener>
+            <p>THat whereas your Petitioner for divers yeares hath beene imployed
+by his Majeſtie and his late Royall Father in divers Offices and imployments
+of great truſt and eminence within the Realme of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> wherein
+to the uttermoſt of his power hee hath Faithfully diſcharged the truſt in
+him repoſed with the publique approbation, and ſatisfaction both of this,
+and that State and Realme; in Teſtimony where<g ref="char:EOLhyphen"/>of, his Majeſtie was
+pleaſed to dignifie your Petitio<g ref="char:EOLhyphen"/>ner with the ſtile he now beares, yet the
+Right Hono<g ref="char:EOLhyphen"/>rable <hi>Thomas</hi> Earle of <hi>Strafford,</hi> Lord Livetenant
+of the ſaid Realme of <hi>Ireland</hi> having conceived a cauſeleſſe
+diſtruſt againſt your Petitioner, and thereupon indea<g ref="char:EOLhyphen"/>voring the revenge
+of ſome perſonall neglects, and the undue advancement of his own ends and
+inſtruments, by the diſhonour and ruine of your Petitioner, his Lordſhip
+without any juſt cauſe at all, not onely ſtript and deprived your
+Petitoner of thoſe honorable im<g ref="char:EOLhyphen"/>ployments <pb n="12" facs="tcp:112332:7"/> with contumely
+and reproach, but alſo of his owne private fortunes, and the birthright and
+li<g ref="char:EOLhyphen"/>berty of a ſubject, a ſhort viewe of part, of which your Petitioners
+ſufferings, he humbly preſents in theſe en<g ref="char:EOLhyphen"/>ſuing particulars.</p>
+            <div n="1" type="subpart">
+               <head>1.</head>
+               <p>
+                  <hi>Firſt,</hi> whereas his late Majeſtie King
+<hi>Iames</hi> by his Highneſſe Letters bearing date the firſt day of
+<hi>October</hi> in he 14. yeare of his Majeſties Reigne, did appoint your
+Petitioner to be one of the principall Secreta<g ref="char:EOLhyphen"/>ries, and of the Councell of
+State for that Realme; whereupon your Petitioner was ſworne and admitted
+accordingly: and whereas after <hi>viz.</hi> the eighth day of <hi>Iune</hi> in
+the 16. yeare of the ſaid Majeſties Raigne, his ſaid late Majeſtie by
+his Letters Patents under the great Seale of <hi>Ireland,</hi> did grant unto
+your Petitioner aſwell a Penſion of 200. pound <hi>per Annum,</hi> for the
+everciſe of the ſaid office, together with the Fees thereunto belonging, as
+alſo the office of the Privie Signet, with the incidents thereunto, to bee
+held by your Petitioner during his life, immediately after the death
+ſurrender or forfeiture of Sir <hi>Dudley Norton,</hi> who had the ſame
+office and penſion during his life, by force of which premiſſes as your
+Petitioner faith<g ref="char:EOLhyphen"/>fully executed the ſaid office of a Secretary, with<g ref="char:EOLhyphen"/>out fee
+during the life of the ſaid Sir <hi>Dudley Norton,</hi> who was then for many
+yeares infirme and unable to exerciſe the ſame, ſo he ought to hold the
+ſaid office and pention ſince his deceaſe or ſurrender, according to
+the office of his Majeſties ſaid Patent; Yet upon pretenſe of a
+diſcour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſie ſuppoſed to bee
+done by your Petitioner to his Lordſhips brother Sir <hi>George 
+<pb n="13" facs="tcp:112332:7"/> Wentworth,</hi> his Lordſhip obtained a ſurrender to
+bee made by the ſaid Sir <hi>Dudley Norton</hi> in or about the 12. day of
+<hi>July</hi> in the 10. yeare of his now Majeſties Raigne, and contrary to
+all right and juſtice procu<g ref="char:EOLhyphen"/>red the ſaid office and Fees to bee conferred
+upon Sir <hi>Phillip Manwareing,</hi> who notwithſtanding your Peti<g ref="char:EOLhyphen"/>tioners
+often requeſt and Petitions to his Lordſhip for releife, ſtill holds the
+ſame under protection of the power and greatneſſe of his Lordſhip.</p>
+            </div>
+            <div n="2" type="subpart">
+               <head>2.</head>
+               <p>Whereas his Majeſtie by his Highneſſe Letters Patents
+bearing date the 30. day of <hi>May</hi> in the firſt yeare of his
+Highneſſe Raigne, did appoint your Pe<g ref="char:EOLhyphen"/>titioner to be his Uice Treaſurer
+and generall Recei<g ref="char:EOLhyphen"/>ver of his Revenewes within the ſaid Realme of
+<hi>Jre<g ref="char:EOLhyphen"/>land,</hi> during his Majeſties pleaſure, with the Fees and profits
+thereunto belonging, and appointed your Pe<g ref="char:EOLhyphen"/>titioner to bee Treaſurer of
+warres in the ſaid King<g ref="char:EOLhyphen"/>dome by his Majeſties Letters of the 13. of
+<hi>June</hi> 1632. <hi>And whereas</hi> your Petitioner did refuſe at his
+ſollicitation to make a diſhonorable ſale of the ſaid offices, the
+ſaid Earle being therewith enraged, and thereupon indeavoring to captivate
+not onely your Petitioners ſaid offices, but alſo his honour and life to
+his Lordſhips power and pleaſure; his Lordſhip in a time of publique
+peace and ſerenity within that Realme the 12. day of <hi>December</hi> 1635.
+did call a Councell of warre, and did accuſe your Petitioner of ſome words
+ſuppoſed to be ſpoken by your Peti<g ref="char:EOLhyphen"/>oner many moneths before, tending in
+his Lordſhips ſtrayned conſtructions to the diſturbance of goven<g ref="char:EOLhyphen"/>ment, 
+<pb n="14" facs="tcp:112332:8"/> and without allowing your Petitioner liberty of clearing
+his innocency in a legall manner, or ſo much as an houres time, to make his
+juſt defence, proceeded to ſentence at the ſame time, and although the
+ſaid ſuppoſed words were no waies criminall, yet his Lordſhip contrary
+to all juſtice, did cauſe the ſen<g ref="char:EOLhyphen"/>tence of death to be procured againſt
+your Petitioner being a Peere of that Realme, as by the Copie of the ſaid
+ſentence hereunto annexed may appeare.</p>
+            </div>
+            <div n="3" type="subpart">
+               <head>3.</head>
+               <p>Though his Lordſhip for the further advancing of his owne
+ends, did partly forbeare the execution of the ſaid ſentence, yet by colour
+thereof his Lordſhip forthwith diſpoſed of your Petitioners foot
+compa<g ref="char:EOLhyphen"/>ny, and committed your Petitioner priſoner to the Caſtle of
+<hi>Dublin,</hi> where he was continued from the ſaid 12. of
+<hi>December</hi> 1635. untill the 16 day of <hi>Aprill</hi> 1637. and within
+that time your Petitioners papers, Cabinets, Trunkes, and other places of his
+houſe were ſtrictly ſearched by ſome of his greateſt Adver<g ref="char:EOLhyphen"/>ſaries
+by his Lordſhips direction, and your Petitioner for the ſpace of 20. dayes
+was kept cloſe priſoner, to the extreame hazard of his life, untill at
+laſt he was forced to purchaſe his liberty by ſubmiſſion to the
+ſaid unjuſt and illegall ſentence, and by the accepting of a pardon for
+the ſame.</p>
+            </div>
+            <div n="4" type="subpart">
+               <head>4<g ref="char:punc">▪</g>
+               </head>
+               <p>His Lordſhip taking Advantage of your Petitio<g ref="char:EOLhyphen"/>ners condition
+and indeavouring not onely to juſtifie <pb n="15" facs="tcp:112332:8"/> his former
+proceedings, but alſo to convict your Pe<g ref="char:EOLhyphen"/>titioner, and render him a
+delinquent without a de<g ref="char:EOLhyphen"/>fence, did iſſue a Commiſſion to
+Commiſſioners of his owne choice and nomination, who during your
+Petitioners impriſonment examined divers witneſſes touching ſome
+miſdemeanors falſely charged upon your Petitioner in his office of
+Vice-treaſurer, which being returned, and the effects thereof tranſmitted
+in<g ref="char:EOLhyphen"/>to this Kingdome, his Lordſhip by this and other un<g ref="char:EOLhyphen"/>due practiſes
+brought your Petitioner into diſgrace with his Majeſtie, and thereupon
+procured the ſaid Offices of Vice-treaſurer, Generall Receiver, and
+Treaſurer of Warres to be conferred upon Sir <hi>Adam Loftus</hi> Knight, who
+had beene formerly one of your Petitioners accuſers.</p>
+            </div>
+            <div n="5" type="subpart">
+               <head>5.</head>
+               <p>Whileſt thus your Petitioner had his office taken from him,
+his honour and integrity injuriouſly ca<g ref="char:EOLhyphen"/>lumniated, his liberty reſtrained,
+his life not onely ſubject to the mercie of the ſaid Earle, but extreme<g ref="char:EOLhyphen"/>ly
+indangered by a continuall ſickeneſſe cauſed by his impriſonment by
+his Lordſhip; not therewith con<g ref="char:EOLhyphen"/>tent, cauſed an Information to bee
+preferred againſt your Petitioner in the Caſtle Chamber, touching the
+ſeverall ſuppoſed miſdemeanors enquired of the ſaid
+Commiſſioners, wherein though your Petitioner no way conſcious of any
+guilt, yet finding his counſell awed by his Lordſhips power, his Judges to
+be ſuch as were formerly his Inquiſitors, the witneſſes pre-engaged by
+an extrajudiciall examination, could expect no leſſe than a ſentence
+againſt him notwith<g ref="char:EOLhyphen"/>ſtanding his innocence, your Petitioner was put to this
+miſerable choice, either to ſuffer continuance <pb n="16" facs="tcp:112332:9"/> and
+addition to his miſeries, or otherwiſe to make ſuch ſubmiſſion as
+his Lordſhip pleaſed, whereupon your Petitioner was enforced in an
+ignominious man<g ref="char:EOLhyphen"/>ner to make ſubmiſſion, hoping thereby to purchaſe his
+Liberty and goe into <hi>England</hi> according to his Majeſties directions,
+though by ſo doing he could not effect the ſame, but his impriſonment was
+continued notwithſtanding.</p>
+            </div>
+            <div n="6" type="subpart">
+               <head>6.</head>
+               <p>Whereas alſo by the fundamentall lawes of that Realme, as
+alſo by his Majeſties Declaration publi<g ref="char:EOLhyphen"/>ſhed in print upon the returne of
+a Commiſſion &amp; by the advice of many grave &amp; wiſe
+Commiſſiners ſent from hence into <hi>Ireland</hi> for the examination of
+the greivances of his Majeſties ſubjects in that Realme, the Lord Deputie
+&amp; Councell are not to meddle up<g ref="char:EOLhyphen"/>on Titles of inheritance betweene party and
+party, or in buſineſſe belonging to the Cognizance of other Courts or to
+alter poſſeſſion, yet his Lordſhip upon a paper petition to him
+preferred by <hi>Richard Rollſton</hi> againſt your Petitioner touching the
+manner of <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee<g ref="char:EOLhyphen"/>more</hi> in the
+ſaid ſaid Realme after 18. yeares quiet poſſeſſion thereof by your
+petitioner, hath Decreed the ſaid lands to the ſaid <hi>Rollſton,</hi>
+and by his owne warrant removed your Petitioner out of poſſeſſion
+thereof.</p>
+            </div>
+            <div n="7" type="subpart">
+               <head>7.</head>
+               <p>Whereas alſo by the lawes of that Kingdome, and by the ſaid
+declaration, proceedings before the Lord Deputy, and Councell for things
+remediable in <pb n="17" facs="tcp:112332:9"/> other Courts by paper Petitio<g ref="char:cmbAbbrStroke">̄</g>s, &amp; the
+abuſes of <hi>Habe<g ref="char:EOLhyphen"/>ascorpus</hi> within that Realme are prohibited, yet upon
+a paper Petition preferred to his Lordſhip and the Councell by, one
+<hi>Walter Peperd</hi> touching land of In<g ref="char:EOLhyphen"/>heritance in the Petitioners
+poſſeſſion, his Lordſhip hath retained the ſaid cauſe for his
+hearing, notwith<g ref="char:EOLhyphen"/>ſtanding your Petitioners legal exception thereunto: &amp;
+upon the like paper Petition preferred to his Lord<g ref="char:EOLhyphen"/>ſhop, by <hi>Arthur
+Manwaring,</hi> his Lordſhip hath for divers yeares delayed and
+fruſtratethed benefit of an execution which your Petitioner had againſt him
+for a debt by bond, &amp; yet there is no end of the ſaid
+<hi>Man<g ref="char:EOLhyphen"/>warings</hi> vexatious ſuites before his Lordſhip, and ſuch other
+Referrees as his Lordſhip appoints.</p>
+            </div>
+            <div n="8" type="subpart">
+               <head>(8)</head>
+               <p>His Lordſhip rated your Petitioner for the pay<g ref="char:EOLhyphen"/>ment of his
+Majeſties Subſidies in one 1000 pound in the Kings bookes, whereas men of
+farre greater viſi<g ref="char:EOLhyphen"/>ble and knowne eſtates are not Charged with halfe that
+proportion, your Petitioners eſtate being very meane to ſupply the
+condition and honours gratiouſ<g ref="char:EOLhyphen"/>ly conferred upon him by his Majeſtie and
+his Roy<g ref="char:EOLhyphen"/>all Father in acceptance of his Faithfull ſervices, and his wife and
+eleven-children.</p>
+               <p>Now for aſmuch as your Petitioner is no waies guilty of the
+crimes, under which hee hath ſuffered, and yet it hath beene the height of
+his Lordſhips en<g ref="char:EOLhyphen"/>deavour, not onely to bereave your Petitioner of his honour
+and fortunes, but alſo (as much as in him laie) of his innocencie, by the
+ſaid extorted ſubmiſſion, and <pb n="18" facs="tcp:112332:10"/> obtruded pardon, he
+here relinquiſheth all advantage by the ſaid pardon, and freely ſubmits
+the crymes to him imputed to the ſcrutine and determination of this honorable
+and impartiall aſſembly, and for aſmuch as the oppreſſions
+ſuſtained by your Petitioner, doe not onely in the higheſt degree
+concerne your Peti<g ref="char:EOLhyphen"/>tioner in his innocencie, liberty and fortunes, but alſo
+tend to the publique abuſe and ſcandall of the lawes, liberties and
+juſtice of both Realmes, and to the in<g ref="char:EOLhyphen"/>troducing an Arbitrary forme of
+goverment, your Petitioner humbly offers the premiſſes to the
+conſi<g ref="char:EOLhyphen"/>deration of this honorable aſſembly; and humbly prayes ſuch
+reperation therein, as to this honorable aſſembly ſhall ſeeme to
+ſtand wiih right and Iuſtice.</p>
+               <closer>
+                  <hi>And your Petitioner ſhall daily pray,
+&amp;c.</hi>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
